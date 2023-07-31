@@ -1,2 +1,2 @@
 # Twitter_analysis
-Sentiment Analysis and Network Analysis.
+Sentiment Analysis and Network Analysis on Twitter dataset. 
